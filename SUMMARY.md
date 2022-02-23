@@ -82,6 +82,7 @@
   * [Heroku](devops/cloud-flatform/heroku.md)
   * [AWS](devops/cloud-flatform/aws.md)
 * [CI/CD](devops/ci-cd/README.md)
+  * [GitHub Action](devops/ci-cd/github-action.md)
   * [Jenkins](devops/ci-cd/jenkins.md)
 * [Docker](devops/docker/README.md)
   * [Docker](devops/docker/docker.md)
