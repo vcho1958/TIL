@@ -4,7 +4,8 @@
 
 ## Working Log
 
-* [NOVA-WEB](working-log/nova-web.md)
+* [NOVA-WEB](working-log/nova-web/README.md)
+  * [Slider 추가](working-log/nova-web/slider.md)
 * [CBNU-OSS](working-log/cbnu-oss.md)
 * [CMI-OSS](working-log/cmi-oss.md)
 
@@ -45,7 +46,8 @@
 * [Front-End](framework/front-end/README.md)
   * [React](framework/front-end/react/README.md)
     * [Hook](framework/front-end/react/hook.md)
-    * [Modules](framework/front-end/react/modules.md)
+    * [Modules](framework/front-end/react/modules/README.md)
+      * [SwiperJS](framework/front-end/react/modules/swiperjs.md)
 * [Back-End](framework/back-end/README.md)
   * [NodeJS](framework/back-end/nodejs/README.md)
     * [Modules](framework/back-end/nodejs/modules/README.md)
