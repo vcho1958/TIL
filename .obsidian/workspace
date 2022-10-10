@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "c4b1bd78124b8934",
+    "type": "split",
+    "children": [
+      {
+        "id": "af7b3479dde5cbab",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "독서계획.md"
+          }
+        },
+        "group": "85f51611f8ebc2c2"
+      },
+      {
+        "id": "b1a6fae1f2845841",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "독서계획.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "85f51611f8ebc2c2"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "147678d0f680e22a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8208676678af7738",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a415e3d8c7e2c65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6b3959a50994434",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ce5d42ed3b83a58",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 496.5
+  },
+  "right": {
+    "id": "7e44121904fab416",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bd47e86fda793bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "813bc81838104630",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "독서계획.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97594a03fe053a45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "독서계획.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b0a2d723dc0bff5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d4268cfa7be4c758",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "독서계획.md"
+              }
+            }
+          },
+          {
+            "id": "0822bac99c6620a2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3ebae2958ad8a76",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "0a415e3d8c7e2c65",
+  "lastOpenFiles": [
+    "책/무제노트 1.md",
+    "2022-10-10.md",
+    "무제노트.md",
+    "README.md",
+    "SUMMARY.md",
+    "ps/algorithm/binary-search.md",
+    "framework/back-end/nodejs/modules/README.md",
+    "framework/back-end/nodejs/modules/undefined.md",
+    "framework/back-end/nodejs/modules/undefined-1.md",
+    "devlop_knowlege/undefined/http.md"
+  ]
+}

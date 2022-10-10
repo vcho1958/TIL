@@ -1,4 +1,4 @@
-# [GIT BOOK LINK](https://gusckd57.gitbook.io/til/) 
+# TIL
 
 ## Change Logs
 
