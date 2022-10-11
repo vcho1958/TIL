@@ -7,19 +7,13 @@
         "id": "af7b3479dde5cbab",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "85f51611f8ebc2c2"
-      },
-      {
-        "id": "b1a6fae1f2845841",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "85f51611f8ebc2c2"
+          "type": "markdown",
+          "state": {
+            "file": "책/오브젝트/202210111732 객체, 설계.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -83,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "책/오브젝트/202210111732 객체, 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "책/오브젝트/202210111732 객체, 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "책/오브젝트/202210111732 객체, 설계.md"
+              }
             }
           },
           {
@@ -146,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0a415e3d8c7e2c65",
+  "active": "af7b3479dde5cbab",
   "lastOpenFiles": [
+    "책/오브젝트/무제노트.md",
     "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VII 기술적 문제(2).md",
-    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-V 행동 문제.md",
     "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VII 기술적 문제(1).md",
     "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VI big-O.md",
+    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-V 행동 문제.md",
     "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VI big-O 예제.md",
     "독서계획.md",
     "무제노트.md",
     "README.md",
-    "책/무제노트 1.md",
-    "2022-10-10.md"
+    "책/무제노트 1.md"
   ]
 }
