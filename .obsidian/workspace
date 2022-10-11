@@ -7,10 +7,8 @@
         "id": "af7b3479dde5cbab",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "독서계획.md"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "85f51611f8ebc2c2"
       },
@@ -18,12 +16,8 @@
         "id": "b1a6fae1f2845841",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "독서계획.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "85f51611f8ebc2c2"
       }
@@ -89,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "독서계획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "독서계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "독서계획.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,15 +148,15 @@
   },
   "active": "0a415e3d8c7e2c65",
   "lastOpenFiles": [
-    "책/무제노트 1.md",
-    "2022-10-10.md",
+    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VII 기술적 문제(2).md",
+    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-V 행동 문제.md",
+    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VII 기술적 문제(1).md",
+    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VI big-O.md",
+    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VI big-O 예제.md",
+    "독서계획.md",
     "무제노트.md",
     "README.md",
-    "SUMMARY.md",
-    "ps/algorithm/binary-search.md",
-    "framework/back-end/nodejs/modules/README.md",
-    "framework/back-end/nodejs/modules/undefined.md",
-    "framework/back-end/nodejs/modules/undefined-1.md",
-    "devlop_knowlege/undefined/http.md"
+    "책/무제노트 1.md",
+    "2022-10-10.md"
   ]
 }
