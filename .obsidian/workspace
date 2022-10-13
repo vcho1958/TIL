@@ -9,11 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "책/오브젝트/202210121322 2.객체지향설계 프로그래밍.md",
+            "file": "책/오브젝트/202210132235 3.역할, 책임, 협력.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "c5eb3700b1ecb492"
+      },
+      {
+        "id": "ec50410cefcbdb75",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "책/오브젝트/202210132235 3.역할, 책임, 협력.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "c5eb3700b1ecb492"
       }
     ],
     "direction": "vertical"
@@ -61,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "7e44121904fab416",
@@ -77,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "책/오브젝트/202210121322 2.객체지향설계 프로그래밍.md",
+                "file": "책/오브젝트/202210132235 3.역할, 책임, 협력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "책/오브젝트/202210121322 2.객체지향설계 프로그래밍.md",
+                "file": "책/오브젝트/202210132235 3.역할, 책임, 협력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "책/오브젝트/202210121322 2.객체지향설계 프로그래밍.md"
+                "file": "책/오브젝트/202210132235 3.역할, 책임, 협력.md"
               }
             }
           },
@@ -143,16 +158,16 @@
     "direction": "horizontal",
     "width": 372.5
   },
-  "active": "af7b3479dde5cbab",
+  "active": "ec50410cefcbdb75",
   "lastOpenFiles": [
-    "책/오브젝트/202210111732 1.객체, 설계.md",
+    "책/오브젝트/무제노트.md",
+    "무제노트.md",
+    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VII 기술적 문제(2).md",
     "책/오브젝트/202210121322 2.객체지향설계 프로그래밍.md",
+    "책/오브젝트/202210111732 1.객체, 설계.md",
     "2022-10-12.md",
     "사진/스크린샷 2022-10-11 오후 6.18.30.png",
     "독서계획.md",
-    "무제노트.md",
-    "책/오브젝트/무제노트.md",
-    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VII 기술적 문제(2).md",
     "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VII 기술적 문제(1).md",
     "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VI big-O.md"
   ]
