@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "교육 프로그램/원티드 백엔드 챌린지 10월/202210142325 트랜잭션 Isolation level.md",
+                "file": "교육 프로그램/원티드 백엔드 챌린지 10월/202210150007 ORM별 Transaction 동작 방식.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "교육 프로그램/원티드 백엔드 챌린지 10월/202210142325 트랜잭션 Isolation level.md",
+                "file": "교육 프로그램/원티드 백엔드 챌린지 10월/202210150007 ORM별 Transaction 동작 방식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "교육 프로그램/원티드 백엔드 챌린지 10월/202210142325 트랜잭션 Isolation level.md",
+                "file": "교육 프로그램/원티드 백엔드 챌린지 10월/202210150007 ORM별 Transaction 동작 방식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "교육 프로그램/원티드 백엔드 챌린지 10월/202210142325 트랜잭션 Isolation level.md"
+                "file": "교육 프로그램/원티드 백엔드 챌린지 10월/202210150007 ORM별 Transaction 동작 방식.md"
               }
             }
           },
@@ -179,15 +179,15 @@
   },
   "active": "b548a18df59810e6",
   "lastOpenFiles": [
-    "책/오브젝트/202210132235 3.역할, 책임, 협력.md",
     "교육 프로그램/원티드 백엔드 챌린지 10월/202210142325 트랜잭션 Isolation level.md",
+    "무제파일.md",
+    "책/오브젝트/202210132235 3.역할, 책임, 협력.md",
     "교육 프로그램/원티드 백엔드 챌린지 10월/무제파일.md",
     "책/오브젝트/무제노트.md",
     "무제노트.md",
     "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VII 기술적 문제(2).md",
     "책/오브젝트/202210121322 2.객체지향설계 프로그래밍.md",
     "책/오브젝트/202210111732 1.객체, 설계.md",
-    "2022-10-12.md",
-    "사진/스크린샷 2022-10-11 오후 6.18.30.png"
+    "2022-10-12.md"
   ]
 }
