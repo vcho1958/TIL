@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202210220046 우분투 서버 설정 후 할 것들.md",
+                "file": "스터디/타입스크립트/202210261601 1. jsdoc.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202210220046 우분투 서버 설정 후 할 것들.md",
+                "file": "스터디/타입스크립트/202210261601 1. jsdoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202210220046 우분투 서버 설정 후 할 것들.md",
+                "file": "스터디/타입스크립트/202210261601 1. jsdoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202210220046 우분투 서버 설정 후 할 것들.md"
+                "file": "스터디/타입스크립트/202210261601 1. jsdoc.md"
               }
             }
           },
@@ -179,15 +179,15 @@
   },
   "active": "b548a18df59810e6",
   "lastOpenFiles": [
+    "책/오브젝트/202210231935 4.설계 품질과 트레이드오프.md",
+    "책/오브젝트/202210132235 3.역할, 책임, 협력.md",
+    "202210220046 우분투 서버 설정 후 할 것들.md",
     "202210172207 Slice 클래스.md",
     "교육 프로그램/원티드 백엔드 챌린지 10월/202210150007 ORM별 Transaction 동작 방식.md",
     "교육 프로그램/원티드 백엔드 챌린지 10월/202210142325 트랜잭션 Isolation level.md",
     "무제파일.md",
-    "책/오브젝트/202210132235 3.역할, 책임, 협력.md",
     "교육 프로그램/원티드 백엔드 챌린지 10월/무제파일.md",
     "책/오브젝트/무제노트.md",
-    "무제노트.md",
-    "책/코딩인터뷰 189가지 프로그래밍 문제와 해법 완전분석/코딩 인터뷰 완전 분석-VII 기술적 문제(2).md",
-    "책/오브젝트/202210121322 2.객체지향설계 프로그래밍.md"
+    "무제노트.md"
   ]
 }
