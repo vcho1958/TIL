@@ -40,9 +40,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2231b820cc00766a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d290517f9a728cb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스터디/타입스크립트/202210261601 1. jsdoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스터디/타입스크립트/202210261601 1. jsdoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "스터디/타입스크립트/202210261601 1. jsdoc.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,8 +189,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b548a18df59810e6",
+  "active": "4d290517f9a728cb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "스터디/타입스크립트/202210261601 1. jsdoc.md",
     "책/오브젝트/202210231935 4.설계 품질과 트레이드오프.md",
     "책/오브젝트/202210132235 3.역할, 책임, 협력.md",
     "202210220046 우분투 서버 설정 후 할 것들.md",
@@ -186,8 +200,6 @@
     "교육 프로그램/원티드 백엔드 챌린지 10월/202210150007 ORM별 Transaction 동작 방식.md",
     "교육 프로그램/원티드 백엔드 챌린지 10월/202210142325 트랜잭션 Isolation level.md",
     "무제파일.md",
-    "교육 프로그램/원티드 백엔드 챌린지 10월/무제파일.md",
-    "책/오브젝트/무제노트.md",
-    "무제노트.md"
+    "교육 프로그램/원티드 백엔드 챌린지 10월/무제파일.md"
   ]
 }
